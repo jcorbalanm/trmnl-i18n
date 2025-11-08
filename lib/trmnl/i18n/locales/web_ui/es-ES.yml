@@ -135,8 +135,8 @@ es-ES:
       title: Noticias
       cta: Ver TODAS
     playlist_items:
-      title: Lista de reproducción
-      cta: Editar lista de reproducción
+      title: Lista de Reproducción
+      cta: Editar Lista de Reproducción
       pieces_of_content_displayed: Contenido mostrado
     plugins:
       title: Plugins
@@ -315,8 +315,8 @@ es-ES:
       add_a_group: Añadir a un Grupo
       add_a_plugin: Añadir a un Plugin
       add_first_device_cta: "¡Empieza __añadiendo__ tu primer dispositivo TRMNL!"
-      add_to_playlist: Añadir a la Lista de Reproducción
-      create_first_playlist_cta: "¡Crea tu lista de reproducción después de __conectar__ tu primer plugin!"
+      add_to_playlist: Añadir a la lista de reproducción
+      create_first_playlist_cta: "¡Crea tu Lista de Reproducción después de __conectar__ tu primer plugin!"
       custom: Custom
       device_default: Device default
       display_period_from: Mostrar desde
@@ -324,7 +324,7 @@ es-ES:
       display_period_validation: Start time must be before end time. Create another group to span overnight hours.
       every: Cada
       never_skip: Never skip screens
-      smart_playlist: Smart Playlist
+      smart_playlist: Lista de Reproducción Inteligente
       smart_playlist_hint: Automatically skip screens whose contents haven't changed in a while.
       skip_after:
         one: Skip stale screens after 1 day
@@ -338,21 +338,21 @@ es-ES:
       hide_playlist: Ocultar este elemento
       show_playlist: Mostrar este elemento
     create:
-      error: Falló la actualización de la lista de reproducción
-      success: Lista de reproducción actualizada
+      error: Falló la actualización de la Lista de Reproducción
+      success: Lista de Reproducción actualizada
     destroy:
       error: Error al eliminar el elemento de la lista de reproducción
       success: eliminado de la lista de reproducción
     toggle_visibility:
       success: Elemento de la lista de reproducción %{change}
     duplicate:
-      success: Lista de reproducción duplicada
+      success: Lista de Reproducción duplicada
     sort:
-      success: Orden de la lista de reproducción actualizado
+      success: Orden de la Lista de Reproducción actualizado
     set_preferences:
-      success: Smart playlist preference updated
+      success: Preferencias de la Lista de Reproducción Inteligente modificadas
     update:
-      success: Orden de la lista de reproducción actualizado
+      success: Orden de la Lista de Reproducción actualizado
   plugins:
     index:
       title: Plugins
@@ -414,7 +414,7 @@ es-ES:
     active: Activo
     copy_are_you_sure: "¿Estás seguro de que quieres copiar este plugin?"
     delete_are_you_sure: "¿Estás seguro de que quieres eliminar este plugin?"
-    delete: Esto borrará completamente la configuración del plugin. Para ocultar este plugin de tu dispositivo, elimínalo de tu Lista de Reproducción en su lugar.
+    delete: Esto borrará completamente la configuración del plugin. Para ocultar este plugin de tu dispositivo, elimínalo de tu lista de reproducción en su lugar.
     inactive: Inactivo
     no_plugin_settings_found: No se encontraron configuraciones del plugin.
     not_supported: Not supported on current device
@@ -500,7 +500,7 @@ es-ES:
     update:
       success: Configuración del plugin actualizada con éxito
     add_to_playlist:
-      success: Plugin añadido a la Lista de Reproducción
+      success: Plugin añadido a la lista de reproducción
   referral_code:
     create:
       request_received: Solicitud recibida, comprueba tu bandeja de entrada
